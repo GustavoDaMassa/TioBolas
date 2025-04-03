@@ -1,4 +1,7 @@
 # Sistema de Gerenciamento de pedidos, produtos e clientes usando Estrutura de Dados 
+<p align="center">
+  <img src="TioBolasLogo.png" alt="Descrição da Imagem">
+</p>
 
 Neste projeto tínhamos o objetivo de fazer um sistema que auxilie no gerenciamento de uma sorveteria.
 Para isso, simulamos toda a situação, desde a criação da sorveteria "Tio Bolas" e seu cardapio até a implementação do seu sistema.
@@ -44,7 +47,7 @@ Após o cadastro finalizado, é exibido o cardápio para escolha dos itens e con
 
   Exibi a fila de pedidos, em ordem de preparo.
   
-  ![image](https://github.com/user-attachments/assets/e4c3c195-f74b-4866-b4d1-c18d4d11e808)
+ ![lista de pedidos](<exibirpedidos.png>)
 
 
 - #### Concluir pedidos
@@ -58,7 +61,7 @@ Após o cadastro finalizado, é exibido o cardápio para escolha dos itens e con
 
   Todos os pedidos da lista poderão ser cancelados.
 
-  ![image](https://github.com/user-attachments/assets/a2c0948c-d97d-41af-b668-9b056900b1cb)
+  ![cancelar pedido](<cancelarpedidos.png>)
 
 
 ### Gerente
@@ -81,7 +84,7 @@ Senha correta!
 - #### Ver clientes
   Para armazenar os clientes pensamos também em salvar dados como a data de nescimento e quantidade de compras para que promoções possam ser trabalhas encima dessas informações e atrair mais clientes
 
-![image](https://github.com/user-attachments/assets/e5e7d8fb-416a-48af-90aa-7e38bee192c1)
+![clientes](<clientes.png>)
 
 
 
